@@ -1,0 +1,8 @@
+node_modules/
+output/
+dist/
+src/main.js
+.psci_modules/
+.cache/
+.spago/
+.DS_Store
